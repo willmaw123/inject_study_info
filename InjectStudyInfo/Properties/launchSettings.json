@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InjectStudyInfo": {
+      "commandName": "Project",
+      "commandLineArgs": "-host 127.0.0.1 -srcfile C:\\test.txt -errorfile c:\\test\\log.error -stoponeach -direct"
+    }
+  }
+}
